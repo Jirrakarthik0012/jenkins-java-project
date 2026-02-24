@@ -14,14 +14,14 @@
     </nav>
     <div class="background-image"></div>
     <div class="form-wrapper">
-      <h2> ARTHAM INDHA MASTERUUUU.</h2>
+      <h2> CINEMA CHUPISTAA MAWA.</h2>
       <form action="#">
         <div class="form-control">
           <input type="text" required />
-          <label>EmaillLLLLLL</label>
+          <label>Email-ID-kottu</label>
         </div>
         <div class="form-control">
-          <input type="password" required />
+          <input type="password-Kottu" required />
           <label>Password</label>
         </div>
         <button type="submit"> BYE  </button>
