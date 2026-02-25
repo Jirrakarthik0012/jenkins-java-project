@@ -14,17 +14,17 @@
     </nav>
     <div class="background-image"></div>
     <div class="form-wrapper">
-      <h2> CINEMA CHUPISTAA MAWA.</h2>
+      <h2> CINEMA CHUSTAVA  MAWA</h2>
       <form action="#">
         <div class="form-control">
           <input type="text" required />
-          <label>Email-ID-kottu</label>
+          <label>Email-ID-enter chayeeee</label>
         </div>
         <div class="form-control">
-          <input type="password-Kottu" required />
-          <label>Password</label>
+          <input type="password" required />
+          <label>Password-enter chayee</label>
         </div>
-        <button type="submit"> BYE  </button>
+        <button type="submit"> PO Login Avuuu  </button>
         <div class="form-help">
           <div class="remember-me">
             <input type="checkbox" id="remember-me" />
